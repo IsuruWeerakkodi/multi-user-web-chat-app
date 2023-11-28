@@ -1,6 +1,6 @@
 package lk.ijse.dep11.controller;
 
-import lk.ijse.dep11.app.to.MessageTO;
+import lk.ijse.dep11.to.MessageTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 

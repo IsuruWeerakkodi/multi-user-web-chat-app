@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Vector;
 
 @RestController
-@RequestMapping("/api/v1/messages")
+@RequestMapping("/api/v2/messages")
 @CrossOrigin
 public class ChatHttpController {
 
